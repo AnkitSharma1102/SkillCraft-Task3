@@ -1,4 +1,5 @@
- // const allQuestions = [
+// the javascript code is already provided in the index.html file
+// const allQuestions = [
  //      { question: "Which country won the first ever Cricket World Cup in 1975?", options: ["England", "Australia", "West Indies", "India"], correct: 2 },
  //      { question: "What is the highest individual score in Test cricket?", options: ["375", "400*", "365*", "380"], correct: 1 },
  //      { question: "Which bowler has taken the most wickets in Test cricket?", options: ["Shane Warne", "Muttiah Muralitharan", "Anil Kumble", "Glenn McGrath"], correct: 1 },
